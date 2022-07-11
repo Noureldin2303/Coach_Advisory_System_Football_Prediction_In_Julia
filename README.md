@@ -24,14 +24,24 @@ After Finishing open terminal/powershell and write the command **julia** if you 
 
 **voila** you installed the packge succefully
  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Project Idea:
+ Football Prediction and Analysis System
+
+# Problem description:
+The analytical part is more difficult and requires highly specialized labor. It's not something anyone can do without thinking. An unfocused analyst will miss things, even if he is the best analyst in the world.
+Football events and results need to be analyzed fairly quickly, helping the club to apply the lessons learned from the game faster. This means less time wasted training on unhelpful exercises, less internal bad habits, that speed leads to stronger play, and the good club wants to take advantage of that moment.
+
+# Our Solution:
+We will use the Julia programming language to build an analytics system that uses artificial intelligence. and machine learning techniques to help analysts discover match events/results no matter how many such information is and quickly and accurately analyze it and produce the kind of data that a team of analysts could take several hours to obtain.
 
 
+# How does it work:
+## Just easy two steps:
+### First: 
+The coach will choose the two teams that will play next
 
+### Second:
+The program will start to analyze the previous matches of each team, in particular the last five matches, and depending on the results of these matches and using some calculations to analyze the data, the program will display the winning / losing percentage of each team or if the two teams are tied
 
-
-
-
-
-
-
- The analytical part is more difficult and requires highly specialized labor. It's not something anyone can do without thinking. An unfocused analyst will miss things, even if he is the best analyst in the world. Football events and results need to be analyzed fairly quickly, helping the club to apply the lessons learned from the game faster. This means less time wasted training on unhelpful exercises, less internal bad habits, that speed leads to stronger play, and the good club wants to take advantage of that moment.  so We will use the Julia programming language to build an analytics system that uses artificial intelligence. and machine learning techniques to help analysts discover match events/results no matter how many such information is and quickly and accurately analyze it and produce the kind of data that a team of analysts could take several hours to obtain.
