@@ -45,3 +45,15 @@ The coach will choose the two teams that will play next
 ### Second:
 The program will start to analyze the previous matches of each team, in particular the last five matches, and depending on the results of these matches and using some calculations to analyze the data, the program will display the winning / losing percentage of each team or if the two teams are tied
 
+# Why using Julia for this problem?
+
+1. Julia is suitable for such types of problems.
+
+2. Effective in arithmetic/numerical operations and AI/machine learning applications, it will be used to efficiently calculate win/defeat/tie ratios as designed for scientific computing, capable of handling large amounts of data and computations with easy manipulation and prototyping. where
+You will deal with a lot of arithmetic operations and numerical values to analyze and manipulate the data of the previous matches of each team.
+
+3. We will use its advantages in data science to analyze the data using a decision tree to predict the winning team.
+
+4. We also find that Julia solves the problem of languages (prototype - final application), which will make it fast and efficient. Another advantage is that Julia supports parallel code execution, so it will improve processing and save us the time for executing operations, where the most important thing we need in the process of data analysis is greater savings amount of time.
+
+5. We find that Julia can connect to other language packages / libraries, which will make it more easy and flexible
