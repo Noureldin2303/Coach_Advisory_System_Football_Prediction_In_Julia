@@ -45,6 +45,7 @@ The coach will choose the two teams that will play next
 ### Second:
 The program will start to analyze the previous matches of each team, in particular the last five matches, and depending on the results of these matches and using some calculations to analyze the data, the program will display the winning / losing percentage of each team or if the two teams are tied
 
+## image of the Coach Advisory System
 ![The Magnificent system GUI!](https://github.com/Noureldin2303/Coach_Advisory_System-Football_Prediction_In_Julia/blob/main/Coach%20advisory%20System%20in%20julia/images/GUI.PNG?raw=true "System GUI")
 
 
