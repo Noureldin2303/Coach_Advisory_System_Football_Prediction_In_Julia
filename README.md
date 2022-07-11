@@ -7,7 +7,7 @@
 
 After Finishing open terminal/powershell and write the command **julia** if you followed the right steps you will end with the julia great ***repl*** opened in your terminal like this: 
 
-![The Magnificent julia repl!](juliarepl.png "Julia Repl")
+![The Magnificent julia repl!](https://github.com/Noureldin2303/Coach_Advisory_System_And_Football_Prediction_In_Julia/blob/main/Coach%20advisory%20System%20in%20julia/Readme/juliarepl.png?raw=true "Julia Repl")
 
 ---
 
@@ -18,7 +18,7 @@ After Finishing open terminal/powershell and write the command **julia** if you 
  4. If you want to install any packages you should do the following:
     - press `]` key this should open the ***pkg manager*** in julia it should appear in the terminal like this 
 
-    ![Julia pkg manager!](juliaPkg.png "Julia pkg manager")
+    ![Julia pkg manager!](https://github.com/Noureldin2303/Coach_Advisory_System_And_Football_Prediction_In_Julia/blob/main/Coach%20advisory%20System%20in%20julia/Readme/juliaPkg.png?raw=true "Julia pkg manager")
 5. you should then write 
 >`pkg.add("package name goes here")`
 
