@@ -1,3 +1,5 @@
+# This is the GUI separatly from the app if needed
+
 using Gtk
 using Images
 using Gtk.ShortNames
