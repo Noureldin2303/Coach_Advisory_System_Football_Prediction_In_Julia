@@ -60,4 +60,4 @@ You will deal with a lot of arithmetic operations and numerical values to analyz
 
 4. We also find that Julia solves the problem of languages (prototype - final application), which will make it fast and efficient. Another advantage is that Julia supports parallel code execution, so it will improve processing and save us the time for executing operations, where the most important thing we need in the process of data analysis is greater savings amount of time.
 
-5. We find that Julia can connect to other language packages / libraries, which will make it more easy and flexible
+5. We find that Julia can connect to other language packages / libraries, which will make it more easy and flexible. 
